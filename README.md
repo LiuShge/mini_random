@@ -52,10 +52,10 @@ print(prng.next_float_in_range(0, 1))
 # Generate a big integer in a specified range
 print(prng.next_bigint_in_range(-10**50, 10**50))
 ```
-Example Output:
-42
-0.734829182374982734
--9708196413034723149118309935275652529732012143283
+Example Output: 
+42 
+0.734829182374982734 
+-9708196413034723149118309935275652529732012143283 
 
 
   Note: Results vary depending on the seed. Using the same seed ensures reproducible sequences.
