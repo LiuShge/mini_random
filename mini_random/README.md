@@ -34,7 +34,7 @@ Simply download the `mini_random.py` file to use—no additional dependencies re
 Or clone the repository:
 
 ```bash
-git clone https://github.com/LiuShge/mini_random.git
+git clone https://github.com/LiuShge/python_toolkit.git
 ```
 ## Usage
 ```python
